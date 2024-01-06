@@ -19,6 +19,7 @@ public class array01 {
 
         // (2) 다건 조회
         // length : 길이를 구하는 메서드
+        //
 
         for (int i=0; i<intArray2.length; i++) {
             System.out.println(intArray2[i]);

@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40adbfb9-d7c3-44d9-af47-b3897b9b2890" name="Changes" comment="" />
+    <list default="true" id="40adbfb9-d7c3-44d9-af47-b3897b9b2890" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/st02/array/array03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/st02/array/array04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/st02/array/array05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/st02/array/array06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/st02/array/array07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/st02/array/array01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/st02/array/array01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/st02/array/array02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/st02/array/array02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -31,6 +46,11 @@
     "Application.Main.executor": "Run",
     "Application.array01.executor": "Run",
     "Application.array02.executor": "Run",
+    "Application.array03.executor": "Run",
+    "Application.array04.executor": "Run",
+    "Application.array05.executor": "Run",
+    "Application.array06.executor": "Run",
+    "Application.array07.executor": "Run",
     "Application.first01.executor": "Run",
     "Application.first02.executor": "Run",
     "Application.first03.executor": "Run",
@@ -51,6 +71,7 @@
     "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,7 +101,7 @@
       <workItem from="1704474068099" duration="325000" />
       <workItem from="1704474403618" duration="709000" />
       <workItem from="1704475359382" duration="5528000" />
-      <workItem from="1704531213629" duration="15034000" />
+      <workItem from="1704531213629" duration="23297000" />
     </task>
     <servers />
   </component>
